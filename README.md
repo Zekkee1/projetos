@@ -1,5 +1,5 @@
 <h1 align="center">
-#Bem Vindo(a) ao meu repositório
+Bem Vindo(a) ao meu repositório
 </h1>
 
 <div align="center">
@@ -20,6 +20,11 @@ o codigo linha por linha.
   </tr>
     <tr>
     <td>Cypress</td>
+    <td></td>
+  </tr>
+    </tr>
+    <tr>
+    <td>Selenium</td>
     <td></td>
   </tr>
 
