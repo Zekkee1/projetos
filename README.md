@@ -16,18 +16,15 @@ o codigo linha por linha.
 <table>
   <tr>
     <td>Projeto</td>
-    <td>Sobre</td>
     <td>Readme</td>
   </tr>
     <tr>
     <td>Cypress</td>
     <td>Documento</td>
-    <td>Documento</td>
   </tr>
     </tr>
     <tr>
     <td>Selenium</td>
-    <td>Documento</td>
     <td>Documento</td>
   </tr>
 
