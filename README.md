@@ -20,12 +20,12 @@ o codigo linha por linha.
   </tr>
     <tr>
     <td>Cypress</td>
-    <td>Documento</td>
+    <td>Documentação</td>
   </tr>
     </tr>
     <tr>
     <td>Selenium</td>
-    <td>Documento</td>
+    <td>Documentação</td>
   </tr>
 
 </table>
