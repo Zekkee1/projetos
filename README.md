@@ -25,7 +25,7 @@ o codigo linha por linha.
     </tr>
     <tr>
     <td>Selenium</td>
-    <td href="https://github.com/Zekkee1/projetos/issues/2">Doc</td>
+    <td a href="https://github.com/Zekkee1/projetos/issues/2">Doc</td>
   </tr>
 
 </table>
